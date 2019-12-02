@@ -1,2 +1,2 @@
-def first_number(number)
-  if first_number = Integer
+first_number = get_variable_from_file
+  
