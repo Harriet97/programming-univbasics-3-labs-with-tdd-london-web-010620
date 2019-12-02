@@ -1,1 +1,1 @@
-first_number = "hello"
+first_number = Integer or Float
