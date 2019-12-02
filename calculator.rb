@@ -1,2 +1,2 @@
 first_number = 10
-second number = 8
+second_number = 8
